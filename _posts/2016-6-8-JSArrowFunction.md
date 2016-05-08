@@ -33,6 +33,7 @@ setInterval(() => console.log(2), 1000);
 Arrow functions are easier to read (particularly when the function is short).
 
 Compare
+
 ```javascript
 
 setInterval(() => console.log(2), 1000);
