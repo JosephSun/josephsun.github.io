@@ -50,7 +50,12 @@ setInterval(function() {
 
 ### 1) Arrow functions change how the keyword *this* works.
 
-The value of *this* depends on the context of its function call because it refers to the subject in the context.
+If you're not familiar with how *this* works then I suggest that you read up on it and come back. Here are some great explanations.  
+[Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch1.md)
+[Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+[Mike West](http://www.digital-web.com/articles/scope_in_javascript/)
+[Sitepoint](http://www.sitepoint.com/inner-workings-javascripts-this-keyword/)
+
 
 
 ```javascript
