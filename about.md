@@ -4,7 +4,7 @@ title: About the guy in picture
 permalink: /about/
 ---
 
-His name is Joseph Sun and I am him or he is me. I'm never quite sure how to phrase that, which must mean that neither does he. Huh. I am a full stack software engineer who focuses primarily on React and Node. My previous experience includes building web applications using Express, Node and Angular, among other technologies.
+His name is Joseph Sun and I am him or he is me. I'm never quite sure how to phrase that, which must mean that neither does he. Huh. I am a software engineer who focuses primarily on React and Node. My previous experience includes building web applications using Express, Node and Angular, among other technologies.
 
 His passions include building with a purpose and increasing his productivity (like I said, weirdo-I mean, look at how he refers to himself in third person).
 
