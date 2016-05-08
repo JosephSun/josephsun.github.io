@@ -4,11 +4,11 @@ title: ES2015 Arrow Functions
 ---
 
 
-### What are arrow functions?
+## What are arrow functions?
 
 An arrow function, in javascript, is a function declaration using the arrow syntax (=>).  
 
-#### Examples of arrow functions
+### Examples of arrow functions
 ```javascript
 // Function declared with arrow syntax
 const arrowFunction = () => console.log(2);
@@ -28,9 +28,9 @@ setInterval(() => {
 setInterval(() => console.log(2), 1000);
 
 ```
-### What makes arrow functions different than named functions?
+## What makes arrow functions different than named functions?
 
-#### 1) Arrow functions are easier to read (particularly when the function is short).
+### 1) Arrow functions are easier to read (particularly when the function is short).
 
 Compare
 
@@ -48,3 +48,5 @@ setInterval(function() {
   }, 1000);
 
 ```
+
+### 1) Arrow functions are easier to read (particularly when the function is short).
