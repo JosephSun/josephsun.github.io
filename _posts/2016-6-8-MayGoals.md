@@ -14,3 +14,9 @@ title: May Goals
 
 1. *MongoDB in Action* by Kyle Banker
 2. *Nudge: Improving decisions about Health, Wealth and Happiness* by Richard H. Thaler and Cass R. Sunstein
+
+
+## Programming
+
+1. Read more on javascript arrow functions, destructuring and spread and rest params.
+2. Solve coding challenges about Trees and Graphs
