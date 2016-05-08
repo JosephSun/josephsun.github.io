@@ -3,8 +3,27 @@ layout: post
 title: ES2015 Arrow Functions
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+### What are arrow functions?
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+An arrow function is a function declaration using the arrow syntax (=>).  
+
+#### Examples of arrow functions
+```javascript
+// Function declared with arrow syntax
+var arrowFunction = () => console.log(2);
+
+//logs 2
+arrowFunction()
+
+//logs 2 every second
+setInterval(() => {
+    return 2;
+  }, 1000);
+
+//When you have only one expression in the function,
+//you don't need curly braces or a return statement
+setInterval(() => console.log(2), 1000);
+
+() => console.log(2);
+```
