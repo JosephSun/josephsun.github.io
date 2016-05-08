@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 A software engineer who loves productivity tips and reading non-fiction. If you have the time, email me a list of books you would recommend.
-A couple of my interests are US politics, economics, web development, sociology and psychology.   
+A couple of my interests are USA domestic politics, economics, web development, sociology and psychology.   
 
 ### Contact me
 
