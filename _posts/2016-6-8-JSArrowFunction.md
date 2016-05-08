@@ -27,6 +27,7 @@ setInterval(() => {
 setInterval(() => console.log(2), 1000);
 
 ```
+
 ## What makes arrow functions different than named functions?
 
 ### 1) Arrow functions are easier to read (particularly when the function is short).
@@ -60,6 +61,8 @@ If you're not familiar with how *this* works then I suggest that you read up on 
 
 4. [Sitepoint](http://www.sitepoint.com/inner-workings-javascripts-this-keyword/)
 
+
+A
 
 
 ```javascript
