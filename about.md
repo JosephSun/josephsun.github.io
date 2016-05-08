@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[josephsun4@gmai.com](mailto:email@domain.com)
+[josephsun4@gmail.com](mailto:email@domain.com)
