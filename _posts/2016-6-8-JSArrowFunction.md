@@ -11,7 +11,7 @@ An arrow function is a function declaration using the arrow syntax (=>).
 #### Examples of arrow functions
 ```javascript
 // Function declared with arrow syntax
-var arrowFunction = () => console.log(2);
+const arrowFunction = () => console.log(2);
 
 //logs 2
 arrowFunction()
