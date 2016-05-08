@@ -3,7 +3,7 @@ layout: post
 title: May 2016 Goals
 ---
 
-## For the Social Capital web app
+## For the social capital web app
 
 1. Build a chat system
 2. Build a user authentication feature
