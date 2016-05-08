@@ -23,8 +23,8 @@ setInterval(() => {
 
 //When you have only one expression in the function,
 //you don't need curly braces or a return statement
+
+//logs 2 every second
 setInterval(() => console.log(2), 1000);
 
-() => console.log(2);
 ```
-the end
