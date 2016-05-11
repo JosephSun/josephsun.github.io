@@ -3,6 +3,12 @@ layout: post
 title: May 2016 Goals
 ---
 
+### Suspended Goals
+
+My May goals will be suspended. I have accepted a job in Massachusetts. So the next two to three months will be spent
+moving and getting acclimated to the area. 
+
+
 ## For the social capital web app
 
 1. Build a chat system
