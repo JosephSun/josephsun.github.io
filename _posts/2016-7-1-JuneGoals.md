@@ -14,6 +14,7 @@ ___
 ## Professional
 1. Attend the Node.JS Boston meetup June 23rd.
 2. Attend the ACM Boston meetup June 14th.
+3. Read up on C#
 
 ___
 
