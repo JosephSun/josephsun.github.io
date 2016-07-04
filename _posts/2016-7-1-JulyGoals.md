@@ -8,7 +8,7 @@ title: July 2016
 ## Job related
 
 1. Study how to write business proposals
-2. Finish my tasks with a week left by the end of the month
+2. Finish my month's tasks a week ahead of schedule
 
 
 ___
@@ -16,6 +16,7 @@ ___
 ## Professional
 1. Attend all BYPA gatherings
 2. Attend the MBA meet event
+
 ___
 
 ## Personal
