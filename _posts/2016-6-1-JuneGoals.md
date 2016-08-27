@@ -9,7 +9,7 @@ title: June 2016
 
 1. ~~Acclimate to current projects~~
 2. ~~Review Angular~~
-3. Study how to write business proposals- I failed to do this
+3. Study how to write business proposals: I failed to do this
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 ## Personal
 
-1. *Land of Promise: An Economic History of the United States* by Michael Lind- Decided against reading it, way different then I thought
+1. *Land of Promise: An Economic History of the United States* by Michael Lind: Decided against reading it, way different than I thought
 2. ~~*Nudge: Improving decisions about Health, Wealth and Happiness* by Richard H. Thaler and Cass R. Sunstein~~  
 2. ~~*The Woman Behind the New Deal* by Kristen Downey~~  
 2. ~~*The New New Deal* by Michael Grunwald~~  
