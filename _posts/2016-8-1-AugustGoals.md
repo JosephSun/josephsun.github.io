@@ -26,3 +26,7 @@ ___
 6.	Understand Webpack better
 7.	Study MySQL
 8.	Learn C#
+
+
+##Life Goals
+1. Before any instance of communication, ask myself "what am I trying to communicate? What do I want my friend/audience/co-worker/etc to walk away from our discussion knowing?"
