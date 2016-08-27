@@ -30,4 +30,4 @@ ___
 ___
 
 ## Life Goals  
-1. Before any instance of communication, ask myself "what am I trying to communicate? What do I want my friend/audience/co-worker/etc to walk away from our discussion knowing?"
+1. Before any instance of communication, ask myself: what am I trying to communicate? What do I want my friend/audience/co-worker/etc to walk away from our discussion knowing?
